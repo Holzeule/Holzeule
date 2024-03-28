@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wolfram (@Holzeule)
-- 👀 I’m interested in Exc & Python
+- 👀 I’m interested in Excel & Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects with frinds and colleagues
 - 📫 How to reach me: @Holzeule
